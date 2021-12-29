@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a react-native
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to travelling and playing ciricket with my friends.
+- ⚡ Fun fact: I love to travelling .
 
 
 ### Connect with me:
